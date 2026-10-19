@@ -4,11 +4,13 @@
 
 <br />
 
-**Computer Science Engineering student · Global Academy of Technology, Bengaluru · Class of 2027 · CGPA 9.6**
+**Computer Science Engineer · Global Academy of Technology, Bengaluru · Class of 2027 · CGPA 9.6**
 
 <br />
 
 <a href="https://prathibhabc.vercel.app"><img src="https://img.shields.io/badge/View%20My%20Portfolio-302338?style=for-the-badge&logo=safari&logoColor=FFFDF9" alt="View My Portfolio" /></a>
+
+<sub>An interactive portfolio with system architectures, skill networks, and a recruiter view.</sub>
 
 <br /><br />
 
@@ -20,7 +22,7 @@
 
 <br /><br />
 
-[**About**](#about) · [**Projects**](#featured-projects) · [**Skills**](#technical-skills) · [**Activity**](#github-activity) · [**Journal**](#beyond-the-code) · [**Contact**](#lets-connect)
+[**About**](#about) · [**Projects**](#featured-projects) · [**Skills**](#technical-skills) · [**Activity**](#github-activity) · [**Updates**](#recent-updates) · [**Contact**](#lets-connect)
 
 </div>
 
@@ -28,11 +30,11 @@
 
 ## About
 
-I'm a Computer Science Engineering student at Global Academy of Technology, Bengaluru, graduating in 2027. I like the moment when a rough idea turns into something that actually runs, and I build across the stack: web applications, backend services, machine learning models, and cloud-based systems.
+I'm a Computer Science Engineer in the making at Global Academy of Technology, Bengaluru, graduating in 2027. I like the moment when a rough idea turns into something that actually runs, and I build across the stack: secure exam paper delivery (QPDS), AI healthcare analytics (BarrierLens), and voice-driven quotation engines (SmartQuote).
 
 Right now I'm most curious about where machine learning meets real-world products: data-driven research, assistive technology, and software that has to hold up outside a notebook.
 
-- **Building:** practical systems in software development, ML/AI, and cloud computing
+- **Building:** full-stack and backend systems, ML/AI applications, and cloud-based services
 - **Exploring:** software engineering practices, model explainability, and serverless architectures
 - **Reach me:** [prathibhabcs@gmail.com](mailto:prathibhabcs@gmail.com)
 
@@ -62,6 +64,20 @@ Right now I'm most curious about where machine learning meets real-world product
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/pbcs2025/New_GAT_QPDS">QPDS: Question Paper Delivery System</a></h4>
+      <p>A secure exam paper delivery system built as an academic project, with a web application architecture and role-based workflows.</p>
+      <p><img src="https://img.shields.io/badge/Web%20App-B8A7D9?style=flat-square" alt="Web application" /> <img src="https://img.shields.io/badge/Role--Based%20Workflows-D8B7C7?style=flat-square" alt="Role-based workflows" /></p>
+      <a href="https://github.com/pbcs2025/New_GAT_QPDS">Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/pbcs2025/SmartQuote">SmartQuote</a></h4>
+      <p>A quotation management application with a voice-driven quotation engine.</p>
+      <p><img src="https://img.shields.io/badge/Spring%20Boot-E5A18C?style=flat-square&logo=springboot&logoColor=302338" alt="Spring Boot" /></p>
+      <a href="https://github.com/pbcs2025/SmartQuote">Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/pbcs2025/DL_Hey_Vision">Hey Vision</a></h4>
       <p>An assistive vision and voice-based system, developed as a deep learning mini-project.</p>
       <p><img src="https://img.shields.io/badge/Deep%20Learning-B8A7D9?style=flat-square" alt="Deep Learning" /></p>
@@ -82,23 +98,9 @@ Right now I'm most curious about where machine learning meets real-world product
       <a href="https://github.com/pbcs2025/serverless-url-shortener">Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/pbcs2025/New_GAT_QPDS">QPDS: Question Paper Delivery System</a></h4>
-      <p>An academic project implementing a web application architecture with role-based workflows for delivering question papers.</p>
-      <p><img src="https://img.shields.io/badge/Web%20App-B8A7D9?style=flat-square" alt="Web application" /> <img src="https://img.shields.io/badge/Role--Based%20Workflows-D8B7C7?style=flat-square" alt="Role-based workflows" /></p>
-      <a href="https://github.com/pbcs2025/New_GAT_QPDS">Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/pbcs2025/Library-Project">Library Management System</a></h4>
       <p>A software project focused on library management workflows.</p>
       <a href="https://github.com/pbcs2025/Library-Project">Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/pbcs2025/SmartQuote">SmartQuote</a></h4>
-      <p>A quotation management application.</p>
-      <p><img src="https://img.shields.io/badge/Spring%20Boot-E5A18C?style=flat-square&logo=springboot&logoColor=302338" alt="Spring Boot" /></p>
-      <a href="https://github.com/pbcs2025/SmartQuote">Repository →</a>
     </td>
   </tr>
 </table>
@@ -116,11 +118,21 @@ Every project above lives on my GitHub profile: [github.com/pbcs2025?tab=reposit
 ## Technical Skills
 
 <details open>
-<summary><b>Languages and frameworks</b></summary>
+<summary><b>Languages</b></summary>
 <br />
 
 <img src="https://img.shields.io/badge/Python-302338?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-B8A7D9?style=for-the-badge&logo=openjdk&logoColor=302338" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-E5A18C?style=for-the-badge&logo=typescript&logoColor=302338" alt="TypeScript" />
+
+</details>
+
+<details open>
+<summary><b>Frontend and backend</b></summary>
+<br />
+
+<img src="https://img.shields.io/badge/React-302338?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-B8A7D9?style=for-the-badge&logo=nodedotjs&logoColor=302338" alt="Node.js" />
 <img src="https://img.shields.io/badge/Spring%20Boot-E5A18C?style=for-the-badge&logo=springboot&logoColor=302338" alt="Spring Boot" />
 
 </details>
@@ -172,16 +184,11 @@ Every project above lives on my GitHub profile: [github.com/pbcs2025?tab=reposit
 
 ---
 
-## Beyond the Code
+## Recent Updates
 
-*Beyond the Code* is the engineering journal on my portfolio: a place for the thinking that sits around the repositories.
+The latest additions to my portfolio and projects are collected in the **Recent Updates** section of my site, so you can see what I've been building and changing lately.
 
-- **Projects and experiments:** what I build, and why
-- **What I'm exploring:** machine learning, explainability, cloud and serverless systems
-- **Lessons learned:** notes from turning ideas into working systems
-- **What's next:** reflections and future learning goals
-
-<a href="https://prathibhabc.vercel.app/journal"><img src="https://img.shields.io/badge/Read%20the%20Journal-D8B7C7?style=for-the-badge&logoColor=302338" alt="Read the Beyond the Code engineering journal" /></a>
+<a href="https://prathibhabc.vercel.app"><img src="https://img.shields.io/badge/See%20Recent%20Updates-D8B7C7?style=for-the-badge&logoColor=302338" alt="See recent updates on the portfolio" /></a>
 
 ---
 
